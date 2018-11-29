@@ -1,0 +1,18 @@
+ul.ag-social-buttons{
+    list-style: none;
+}
+
+ul.ag-social-buttons li{
+    display: inline;
+    margin-right: 15px;
+}
+
+ul.ag-social-buttons li:last-of-type{
+    margin-right: 0;
+}
+
+ul.ag-social-buttons li a.ag-social-buttons-url{
+    text-decoration: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
